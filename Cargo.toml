@@ -1,0 +1,8 @@
+[package]
+name = "ultima"
+version = "0.1.0"
+authors = ["Marcelo Paez <paezao@gmail.com>"]
+
+[dependencies]
+sdl2 = "*"
+byteorder = "*"
